@@ -1,8 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/Users/derek/SlideroomGIT/slideroom/client/apps/submit/app/views/controllers'
-let g:netrw_dirhist_2='/Users/derek/SlideroomGIT/slideroom/client/apps/submit/app/views/controllers/media'
-let g:netrw_dirhist_3='/Users/derek/SlideroomGIT/slideroom/client/apps/submit/app/views/controllers/media/modal'
-let g:netrw_dirhist_4='/Users/derek/SlideroomGIT/slideroom/client/apps/submit/app/views/controllers/media/modal/viewer'
-let g:netrw_dirhist_5='/Users/derek/SlideroomGIT/slideroom/client/apps/submit/app/views/controllers/media/modal/viewer/video'
-let g:netrw_dirhist_6='/Users/derek'
